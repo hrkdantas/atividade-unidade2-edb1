@@ -87,6 +87,10 @@ TestAll OK
 
 Isso significa que a sequência está funcionando como esperado.
 
+## Print do Terminal
+
+![Saída do Terminal](terminal.png)
+
 👥
 
 Rafael Moura
